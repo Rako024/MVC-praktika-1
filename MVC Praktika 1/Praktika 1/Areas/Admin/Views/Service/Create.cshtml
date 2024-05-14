@@ -1,0 +1,20 @@
+﻿@using Core.Models;
+@model Service;
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" >
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <input asp-for="Description" class="form-control">
+        <span asp-validation-for="Description" style="color:red"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageFile" class="form-label">Image</label>
+        <input asp-for="ImageFile" class="form-control">
+        <span asp-validation-for="ImageFile" style="color:red"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
