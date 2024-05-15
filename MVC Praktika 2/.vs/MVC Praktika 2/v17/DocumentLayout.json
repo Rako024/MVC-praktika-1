@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|c:\\users\\rashid\\desktop\\mvc-praktika-1\\mvc praktika 2\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D788D1E-D391-46FA-A235-7D98E7F50668}|MVC Praktika 2.csproj|solutionrelative:dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAUwI4BAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:39:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAApwDgBAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:39:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:18:59.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:15:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T21:58:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AccountDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\AccountDto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:56:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:37:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AccountDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\AccountDto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:33:36.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\MVC Praktika 2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T21:30:59.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

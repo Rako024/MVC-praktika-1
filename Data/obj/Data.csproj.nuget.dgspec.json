@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Data\\Data.csproj": {}
+    "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\Core.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Data\\Data.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\II novbe\\Desktop\\MVC-praktika-1\\Core\\Core.csproj"
+              "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Rashid\\Desktop\\MVC-praktika-1\\Core\\Core.csproj"
               }
             }
           }
@@ -111,6 +116,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -148,7 +158,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

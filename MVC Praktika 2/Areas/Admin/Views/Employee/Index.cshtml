@@ -5,7 +5,7 @@
 @model List<Employee >
 
 <div class="container justify-content-between">
-    <h1>Employees</h1>
+    <h1>Teams</h1>
     <a class="btn btn-primary" asp-action="Create">Create</a>
 </div>
 <div class="container justify-content-center">
@@ -29,7 +29,7 @@
                         <img src="~/upload/employee/@item.ImgUrl" width="200" height="220"/>
                     </td>
                     <td>
-                        <a class="btn btn-info" asp-action="Update" asp-route-id="@item.Id">Create</a>
+                        <a class="btn btn-info" asp-action="Update" asp-route-id="@item.Id">Update</a>
                         <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Create</a>
                     </td>
 
